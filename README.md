@@ -1,16 +1,17 @@
-## Hi there 👋
+<h3 align="center">👋 Olá, eu sou Cassio Teles</h3>
 
-<!--
-**cassio-teles/cassio-teles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/cassio-rodrigo-teles">LinkedIn</a> •
+  <a href="https://github.com/cassio-teles">Gifhub</a>
+</p>
 
-Here are some ideas to get you started:
+---
+Sou  estudante de Analise e desenvolvimento de sistemas, fascinado pela area de tecnologia, sempre aprendendo mais para entrar na area como pé direito.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fora da area de tecnologia onde estou tentando entrar, sou Analista financeiro para um Banco.
+
+---
+
+- 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/cassio-rodrigo-teles_) ou por [email](didigoca@live.com)
+
+- 
