@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cassio-rodrigo-teles">LinkedIn</a> •
-  <a href="https://github.com/cassio-teles">Gifhub</a>
+  <a href="https://github.com/cassio-teles">Github</a>
 </p>
 
 ---
@@ -12,13 +12,15 @@ Fora da area de tecnologia onde estou tentando entrar, sou Analista financeiro p
 
 Nesse github usarei as seguintes tecnologias:
 
-Python
-JavaScript
-HTML
-CSS  
+[Python]
+
+[JavaScript]
+
+[HTML]
+
+[CSS]  
 
 ---
 
 - 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/cassio-rodrigo-teles_) ou por [email](didigoca@live.com)
 
-- 
