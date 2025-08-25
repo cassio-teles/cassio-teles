@@ -10,6 +10,13 @@ Sou  estudante de Analise e desenvolvimento de sistemas, fascinado pela area de 
 
 Fora da area de tecnologia onde estou tentando entrar, sou Analista financeiro para um Banco.
 
+Nesse github usarei as seguintes tecnologias:
+
+Python
+JavaScript
+HTML
+CSS  
+
 ---
 
 - 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/cassio-rodrigo-teles_) ou por [email](didigoca@live.com)
